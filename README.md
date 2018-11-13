@@ -1,1 +1,1 @@
-"# GamingChair Client" 
+# GamingChair Client
