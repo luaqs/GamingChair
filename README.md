@@ -1,2 +1,2 @@
 # GamingChair Client
-This kind of has to be here, thanks for reading though.
+To leave suggestions or report a bug, please put them in the issues part of this repository with the proper label.
